@@ -1,1 +1,1 @@
-web: gunicorn keissho.wsgi
+web: gunicorn keissho.wsgi:application
